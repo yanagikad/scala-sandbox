@@ -1,4 +1,4 @@
 .DS_Store
 .env
-.bsp/*
-.scala-build/*
+.bsp
+.scala-build
